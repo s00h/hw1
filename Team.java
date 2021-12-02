@@ -17,6 +17,7 @@ public class Team {
         }
     }
 
+
     public void getDistance() {
         for (Human human : member) {
             if (human.isWin) {

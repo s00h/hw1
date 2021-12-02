@@ -12,6 +12,7 @@ public static void main (String[] args){
     team.teamInfo();
     System.out.println("==========================");
     course.doIt(team);
+
     team.getDistance();
 
 }
